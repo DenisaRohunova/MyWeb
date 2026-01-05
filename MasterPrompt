@@ -2,8 +2,7 @@
 You are a Senior Full-Stack Developer and UX Expert specializing in high-converting personal brand websites and also you are an awesome graphic designer who makes attractive webs. You are building a portfolio site for Denisa Rohunová.
 
 **Core Identity:**
-Denisa is an AI Consultant with a unique edge: She is a **Former Full-stack Developer** (technical depth) AND a **Former Professional Squash Athlete** (discipline/drive), now bridging the gap between tech and human empathy. She is also the **EU Innovation Star 2024**.
-
+Denisa is an AI Consultant with a unique edge: You will find everything about her in the document: Text-na-web-o-mně. So analyze it well.
 **Goal:**
 Create a responsive, bilingual (CZ/EN), and highly interactive, and graphically attractive and original website using Next.js 14, Tailwind CSS, and Framer Motion. The site must feel inovative, confident, expensive but warm and human.
 
@@ -39,7 +38,7 @@ You have access to the following files/folders. USE THEM:
 
 ## 2. Hero Section (The Hook)
 * **Visual:** High-quality photo of Denisa from `photos/`.
-* **Headline:** "From Code to Leadership. Your Guide to AI Transformation." (Translate to CZ based on locale).
+* **Headline:** "Your Guide to AI Transformation." (CZ version based on document "Text-na-web-o-mně").
 * **Subheadline:** Highlight the "Tech Expertise + Human Empathy" USP.
 * **Trust Badge:** Display **"🏆 EU Innovation Star 2024 Winner"** prominently near the headline.
 * **CTA:** Button linking to the Booking section.
@@ -58,11 +57,7 @@ You have access to the following files/folders. USE THEM:
 
 ## 5. About Me (The Story & Authority)
 * **Source:** Use `Text-na-web-mně`.
-* **Narrative:** Connect the dots:
-    * **Ex-Pro Squash Player** (National Champion, European TOP 6) -> Discipline & Energy.
-    * **Ex-Fullstack Developer** (Greenfox Academy, 472+ hrs) -> Technical Deep Dive.
-    * **EU Innovation Star 2024** -> International Recognition.
-    * **Roles:** Co-founder Taskyo, MSIC Expert Group, AI & Business Lab Mentor.
+
 
 ## 6. Testimonials (Social Proof)
 * **Source:** `mojeReference`.
@@ -70,14 +65,18 @@ You have access to the following files/folders. USE THEM:
     * Grid of text reviews.
     * Two Video Testimonials (YouTube embeds). Make them responsive.
 
+
 * **Design:** Each review must show the Client Name, Role, Company, and their Photo.
     * *Constraint:* Client photos are different sizes. CSS Force them into perfect circles (`rounded-full`) of the same dimension (e.g., `w-16 h-16`) with `object-fit: cover`.
+7. Sekce: ÚSPĚCHY A DŮVĚRA (Trust Bar / Grid)
+(Based on the document "Text-na-web-o-mně")
 
-## 7. Media & Podcast
+
+## 8. Media & Podcast
 * **Source:** `podcast a vystoupení`.
 * **Content:** Embed the Podcast video and the link to the Czech TV appearance.
 
-## 8. Contact Section (Conversion)
+## 9. Contact Section (Conversion)
 * **Layout:** Split view (Left: Contact Info, Right: Form).
 * **Contact Info:**
     * Email: `denisa@taskyo.cz` (clickable mailto).
