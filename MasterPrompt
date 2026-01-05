@@ -101,6 +101,8 @@ You have access to the following files/folders. USE THEM:
 9. Ensure the whole page will be extra user friendly and attractive and dynamic.
 10. Ensure the long texts are interactive and not boring. 
 11. Ensure that when a website is in English - all texts on the web will be translated to ENGLISH including testemonials. When the language is setup to CZECH-all texts will be in Czech including testemonials.
+12. Ensure the web is docker ready - I will upload it to a custom domain on wedos.cz afterwards
+
 **Start by initializing the project and building the Hero and Logo sections.**
 
 
